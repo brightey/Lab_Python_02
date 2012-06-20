@@ -1,0 +1,23 @@
+control structures
+
+1)
+    a)x=2
+    b) no output
+    c)1
+    d)z=7
+2)
+   a)y=1
+   b)y=5
+
+3) 
+   a)output: 2,4,6,8
+    b)number of times ==10
+4) 
+   a)no output
+     
+
+part ii
+
+
+
+

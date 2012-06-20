@@ -1,0 +1,40 @@
+1)x
+2)types
+  a)boolean
+  b)float
+  c)character string
+  d)integer
+  e)character string
+  f)integer
+  g)
+  h)
+ I)character string
+ j)character string
+
+
+
+exercise 2
+   1)false
+   2)true
+   3)true
+   4)true
+   5)false
+   6)true
+
+ exercise 3
+   1)2.5
+   2)2.5
+   3)2.5
+   4)3.5
+   5)3.50
+   6)25
+   7)25.0
+   8)25.0
+   9)0.33333333
+   10)0.3333333
+
+
+  exercise 4
+
+ firstName=input("enter your firstname");
+lastName=input("enter your lastname");
